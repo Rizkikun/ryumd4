@@ -13,7 +13,7 @@ global.APIKeys = {
 //===> UBAH DISINI
 global.namaowner = 'Rizki' //Ganti Jadi Namamu
 global.owner = ['6283817161861','6283817161861'] //Kalo Mau Lebih Tambahin Aja
-global.nomerowner = '6283817161861' //Owner Utama Istilahnya
+global.nomerowner = '6285878836361' //Owner Utama Istilahnya
 global.namabot = 'ikyBotz MD' //Ganti Jadi Nama Botmu
 global.packname = '© ikybotz MD' //Sticker Weem
 global.author = 'ikybotz By Rizki' //Sticker Weem
