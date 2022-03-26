@@ -4,16 +4,11 @@
 exports.donasi = () => {
 	return`*TERIMA KASIH SUDAH MAU DONASI 🤗*
 
-*Q.S Az-Zalzalah Ayat 7 :*
-
-فَمَنْ يَّعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَّرَهٗۚ
-
-Artinya : Maka barangsiapa 
-mengerjakan kebaikan seberat
-zarrah, niscaya dia akan melihat 
-(balasan)nya,
+ Dana:6283817161861
+ Gopay:6283817161861
+ Pulsa:6283817161861
 
 contact owner :
-wa.me/6285609233482 (Owner)
+wa.me/6283817161861 (Owner)
 `
 }
