@@ -11,12 +11,12 @@ global.APIKeys = {
 }
 
 //===> UBAH DISINI
-global.namaowner = 'Rizki' //Ganti Jadi Namamu
-global.owner = ['6283817161861','6283817161861'] //Kalo Mau Lebih Tambahin Aja
-global.nomerowner = '6285878836361' //Owner Utama Istilahnya
-global.namabot = 'ikyBotz MD' //Ganti Jadi Nama Botmu
-global.packname = '© ikybotz MD' //Sticker Weem
-global.author = 'ikybotz By Rizki' //Sticker Weem
+global.namaowner = 'Izami' //Ganti Jadi Namamu
+global.owner = ['6289662195342','6289662195342'] //Kalo Mau Lebih Tambahin Aja
+global.nomerowner = '6289662195342' //Owner Utama Istilahnya
+global.namabot = 'IzamiBotz MD' //Ganti Jadi Nama Botmu
+global.packname = '© Izamibotz MD' //Sticker Weem
+global.author = 'Izamibotz By Rizki' //Sticker Weem
 global.webme = 'https://api-ryubotz.herokuapp.com'
 global.sessionName = 'session'
 global.bg_welcome = 'https://telegra.ph/file/528b594d5d91c08482515.jpg' //Max 30kb Agar Tidak Delay
